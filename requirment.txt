@@ -1,0 +1,4 @@
+# Node.js dependencies (use npm install)
+# Termux packages:
+# pkg install nodejs git -y
+# npm install
